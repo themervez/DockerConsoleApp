@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Jx7H2udE0e6LVmxWzEvZqcUbPcRiHaw/L79xC/Z8xalwrIw8/gtIq1+YaedrIAFRLsO9czhCflk31ycIGC/YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Merve\\Desktop\\AKBANK EĞİTİM SERÜVENİM\\Ders Projeler\\DockerConsoleApp\\DockerNewConsoleApp\\DockerNewConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Merve\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\Users\Merve\Desktop\AKBANK EĞİTİM SERÜVENİM\Ders Projeler\DockerConsoleApp\DockerNewConsoleApp\bin\Release\netcoreapp3.1\publish\DockerNewConsoleApp.exe
+C:\Users\Merve\Desktop\AKBANK EĞİTİM SERÜVENİM\Ders Projeler\DockerConsoleApp\DockerNewConsoleApp\bin\Release\netcoreapp3.1\publish\DockerNewConsoleApp.dll
+C:\Users\Merve\Desktop\AKBANK EĞİTİM SERÜVENİM\Ders Projeler\DockerConsoleApp\DockerNewConsoleApp\bin\Release\netcoreapp3.1\publish\DockerNewConsoleApp.deps.json
+C:\Users\Merve\Desktop\AKBANK EĞİTİM SERÜVENİM\Ders Projeler\DockerConsoleApp\DockerNewConsoleApp\bin\Release\netcoreapp3.1\publish\DockerNewConsoleApp.runtimeconfig.json
+C:\Users\Merve\Desktop\AKBANK EĞİTİM SERÜVENİM\Ders Projeler\DockerConsoleApp\DockerNewConsoleApp\bin\Release\netcoreapp3.1\publish\DockerNewConsoleApp.pdb
